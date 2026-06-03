@@ -1,6 +1,7 @@
 # CleanArchitecture.Blueprint
 
-A small .NET API blueprint for future clean architecture projects.
+A small .NET API blueprint for future clean architecture projects,
+Using this template you can kickstart your project.
 
 ## Solution Structure
 
