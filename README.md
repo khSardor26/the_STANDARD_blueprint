@@ -46,3 +46,6 @@ Open `/health` to confirm the API is running.
 4. Unit tests should cover rules and small services.
 5. Acceptance tests should cover important API workflows.
 6. Add only the abstractions that the current feature needs.
+7. Service layer must be implemented following TDD
+8. At least HAPPY-PATH tests recommended 
+   
