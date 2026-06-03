@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CleanArchitecture.Blueprint.Api.Tests.Acceptance/CleanArchitecture.Blueprint.Api.Tests.Acceptance.csproj" />
+    <Project Path="src/CleanArchitecture.Blueprint.Api.Tests.Unit/CleanArchitecture.Blueprint.Api.Tests.Unit.csproj" />
+    <Project Path="src/CleanArchitecture.Blueprint.Api/CleanArchitecture.Blueprint.Api.csproj" />
+  </Folder>
+</Solution>
