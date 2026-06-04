@@ -2,7 +2,7 @@
 
 A small .NET API blueprint for future clean architecture projects,
 
-Using this template you can kickstart your project.
+Using this template you can kickstart your project
 
 ## Solution Structure
 
